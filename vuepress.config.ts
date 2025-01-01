@@ -31,7 +31,7 @@ export default defineUserConfig({
   shouldPrefetch: true,
   // 主题配置 FileList 是 vuepress 的一个主题，文件展示的功能全部由这个主题提供。
   theme: FileList([
-    {
+  
       
     {
       mountPath: "/huggingface测试",
