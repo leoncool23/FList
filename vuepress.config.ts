@@ -36,8 +36,8 @@ export default defineUserConfig({
     {
       mountPath: "/huggingface测试",
       analysis: huggingFaceDatasetsAnalysis({
-        userName: "Open-Orca",
-        datasetsName: "OpenOrca",
+        userName: "leonsimon23",
+        datasetsName: "test",
         branchName: "main",
         path: "/",
         //最大深度,如果文件夹有很多层最大递归解析多少层，默认10
